@@ -1,8 +1,0 @@
-last_sector = input()
-num_of_rows_in_first_sector = int(input())
-num_of_seats_of_odd_row = int(input())
-start_sector = 65
-
-for sectors in range():
-
-
