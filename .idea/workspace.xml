@@ -3,22 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/examp/best_player.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/exam/best_player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/examp/cat_diet.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/exam/cat_diet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/examp/deer_of_santa.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/exam/deer_of_santa.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/examp/excursion_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/exam/excursion_calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/examp/formula_for_bogen45.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/exam/formula_for_bogen45.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/examp/sum_and_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/exam/sum_and_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/examp/workout.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/exam/workout.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_examp/barcode_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_exam/barcode_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_examp/easter_lunch.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_exam/easter_lunch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_examp/football_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_exam/football_results.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_examp/mobile_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_exam/mobile_operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_examp/pc_game_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_exam/pc_game_shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_examp/suitcases_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_exam/suitcases_load.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_examp/the_most_powerful_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_exam/the_most_powerful_word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_examp/tournament_of_christmass.py" beforeDir="false" afterPath="$PROJECT_DIR$/first_steps_in_coding_basic/preparation_for_exam/tournament_of_christmass.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/password_reset.py" beforeDir="false" afterPath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/password_reset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/heroes_of_code_and_logic_VII.py" beforeDir="false" afterPath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/heroes_of_code_and_logic_VII.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
