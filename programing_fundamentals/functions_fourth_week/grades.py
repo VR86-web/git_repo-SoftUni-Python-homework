@@ -10,6 +10,7 @@ def convert_grade_to_word(grade):
     elif 5.50 <= grade <= 6.00:
         return "Excellent"
 
-grade = float(input())
-result = convert_grade_to_word(grade)
+
+grades = float(input())
+result = convert_grade_to_word(grades)
 print(result)
