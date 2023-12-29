@@ -3,10 +3,17 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\WIN10\PycharmProjects\pythonProject\first_steps_in_coding_basic\examp\pokemon_data.csv.csv">
+        <entry key="C:\Users\WIN10\PycharmProjects\pythonProject\programing_fundamentals\first_week_more_exercises\pokemon_data.csv.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="C:\Users\WIN10\PycharmProjects\pythonProject\programing_fundamentals\first_week_more_exercises\pokemon_data.csv.xlsx">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
             </Attribute>
           </value>
         </entry>
