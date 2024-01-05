@@ -23,4 +23,4 @@ row = {"release_year": 2021,
        "release_name": "Natural Vision Evolved",
        "city": "Los Angeles"}
 #new_row_data = gta_data.append(row, ignore_index=True)
-print(filtered_row)
+print(gta_data)

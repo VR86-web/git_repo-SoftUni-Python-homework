@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas_projects/bmi.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas_projects/bmi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_projects/bmi.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pandas_projects/pandas_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_projects/pandas_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql_practice/gta.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_projects/loading_data_from_existing_file.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.loading_data_from_existing_file (1)">
+  <component name="RunManager" selected="Python.loading_data_from_file_in_the_computer">
     <configuration name="loading_data_from_existing_file (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pandas_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="loading_data_from_file_in_the_computer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_projects/pandas_practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_projects/loading_data_from_file_in_the_computer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.loading_data_from_file_in_the_computer" />
         <item itemvalue="Python.loading_data_from_existing_file (1)" />
         <item itemvalue="Python.sql_practice_game_list_GTI (1)" />
         <item itemvalue="Python.loading_data_from_existing_file (1)" />
         <item itemvalue="Python.loading_data_from_existing_file" />
-        <item itemvalue="Python.pandas_practice" />
       </list>
     </recent_temporary>
   </component>
