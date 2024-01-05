@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="" />
+    <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_projects/bmi.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_projects/bmi.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_projects/bmi.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pandas_projects/pandas_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/pandas_projects/pandas_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_practice/gta.db" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,18 +41,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pandas_projects" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\WIN10\Documents\git_repo\requests_practice" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\WIN10\Documents\git_repo\pandas_projects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WIN10\Documents\git_repo\pandas_projects" />
+      <recent name="C:\Users\WIN10\Documents\git_repo\first_steps_in_coding_basic\loading_data_from_file_pandas" />
+      <recent name="C:\Users\WIN10\Documents\git_repo\requests_practice" />
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam_functions" />
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pandas_practice">
-    <configuration name="example (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.loading_data_from_existing_file (1)">
+    <configuration name="loading_data_from_existing_file (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/beautifulsoup_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_projects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/beautifulsoup_practice/example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_projects/loading_data_from_existing_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="loading_data_from_existing_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +86,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pandas_projects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\WIN10\Documents\git_repo\requests_practice\example.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\WIN10\Documents\git_repo\pandas_projects\loading_data_from_existing_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loading_data_from_existing_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git_repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_steps_in_coding_basic/loading_data_from_file_pandas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\WIN10\Documents\git_repo\pandas_projects\loading_data_from_existing_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pokemon_pandas_project (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sql_practice_game_list_GTI (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_projects/pokemon_pandas_project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_projects/sql_practice_game_list_GTI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.loading_data_from_existing_file (1)" />
+        <item itemvalue="Python.sql_practice_game_list_GTI (1)" />
+        <item itemvalue="Python.loading_data_from_existing_file (1)" />
+        <item itemvalue="Python.loading_data_from_existing_file" />
         <item itemvalue="Python.pandas_practice" />
-        <item itemvalue="Python.pokemon_pandas_project (1)" />
-        <item itemvalue="Python.sql_practice_game_list_GTI" />
-        <item itemvalue="Python.example (1)" />
-        <item itemvalue="Python.example" />
       </list>
     </recent_temporary>
   </component>

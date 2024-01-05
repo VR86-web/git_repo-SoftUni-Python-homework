@@ -29,5 +29,5 @@ data["bmi"] = bmi
 #safe dataframe to a file csv
 # separated by "t" (tab)
 # if we like to change the file to "txt" just change "bmi.csv" with "bmi.txt". Doesnt mather that we selected data.to_csv
-data.to_csv("bmi.txt", sep="\t")
+data.to_csv("bmi.txt", index=False, sep="\t")
 print(data)

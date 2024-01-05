@@ -1,4 +1,4 @@
-	name	height	weight	bmi
-0	Maria	1.67	54	19.362472659471475
-1	Batman	1.9	100	27.70083102493075
-2	Spongebob	0.25	1	16.0
+name	height	weight	bmi
+Maria	1.67	54	19.362472659471475
+Batman	1.9	100	27.70083102493075
+Spongebob	0.25	1	16.0
