@@ -3,6 +3,198 @@
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/chat_codes.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/chat_codes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/christmass_spirit.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/christmass_spirit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/double_char.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/double_char.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/drink_something.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/drink_something.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/easter_bread.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/easter_bread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/how_much_coffee_do_you_need.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/how_much_coffee_do_you_need.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/jennys_secret_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/jennys_secret_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/larghest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/larghest_of_three_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/maximum_multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/maximum_multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/mutate_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/mutate_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/number_between_1_and_100.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/number_between_1_and_100.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/number_definer.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/number_definer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/patterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/patterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/sorting_hat.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/sorting_hat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/string_pureness.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/string_pureness.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/basic_syntax_conditional_first_week/word_reverse.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/basic_syntax_conditional_first_week/word_reverse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/centuries_to_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/centuries_to_minutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/chars_to_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/chars_to_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/concat_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/concat_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/convert_meters_to_kilometers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/convert_meters_to_kilometers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/elevator.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/elevator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/gladiator_expences.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/gladiator_expences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/integer_operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/integer_operations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/next_happy_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/next_happy_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/party_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/party_profit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/pounds_to_dollars.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/pounds_to_dollars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/print_part_of_ASCII_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/print_part_of_ASCII_table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/snow_balls.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/snow_balls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/special_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/special_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/sum_of_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/sum_of_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/triples_of_latin_letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/triples_of_latin_letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/data_types_and_variables_second_week/water_overflow.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/data_types_and_variables_second_week/water_overflow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/a_miner_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/a_miner_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/ascii_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/ascii_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/bakery.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/bakery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/capitals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/company_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/company_users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/count_chars_in_a_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/count_chars_in_a_string.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/courses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/force_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/force_book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/legendary_farming.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/legendary_farming.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/odd_occurrences.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/odd_occurrences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/phonebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/phonebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/softuni_exam_results.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/softuni_exam_results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/softuni_parking.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/softuni_parking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/statistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/stock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/student_academy.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/student_academy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/students.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/students.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_eight_week/word_synonyms.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_eight_week/word_synonyms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_more_exercises/judge.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_more_exercises/judge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/dictionaries_more_exercises/ranking.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/dictionaries_more_exercises/ranking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam/message_translator.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam/message_translator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam/messages_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam/messages_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam/string_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam/string_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_functions/need_for_speed_III.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_functions/need_for_speed_III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_functions/plant_discovery_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_functions/plant_discovery_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_functions/secret_chat_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_functions/secret_chat_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_functions/the_imitation_game_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_functions/the_imitation_game_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_functions/the_pianist_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_functions/the_pianist_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_functions/world_tour_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_functions/world_tour_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/activation_keys.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/activation_keys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/ad_astra.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/ad_astra.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/destination_mapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/destination_mapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/emoji_detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/emoji_detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/fancy_barcodes.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/fancy_barcodes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/heroes_of_code_and_logic_VII.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/heroes_of_code_and_logic_VII.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/mirror_words.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/mirror_words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/need_for_speed_III.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/need_for_speed_III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/password_reset.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/password_reset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/pirates.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/pirates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/plant_discovery.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/plant_discovery.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/secret_chat.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/secret_chat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/the_imitation_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/the_imitation_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/the_pianist.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/the_pianist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/final_exam_preparations/world_tour.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/final_exam_preparations/world_tour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/first_week_more_exercises/find_the_capital.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/first_week_more_exercises/find_the_capital.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/first_week_more_exercises/find_the_largest.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/first_week_more_exercises/find_the_largest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/first_week_more_exercises/sum_of_a_beach.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/first_week_more_exercises/sum_of_a_beach.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/first_week_more_exercises/wolf_in_sheeps_clothing.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/first_week_more_exercises/wolf_in_sheeps_clothing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/absolute_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/absolute_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/add_and_subtract.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/add_and_subtract.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/calculate_rectangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/calculate_rectangle_area.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/calculations.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/calculations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/characters_in_range.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/characters_in_range.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/factorial_division.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/factorial_division.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/grades.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/loading_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/loading_bar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/odd_and_even_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/odd_and_even_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/orders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/perfect_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/perfect_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/repeat_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/repeat_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/rounding.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/rounding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_fourth_week/smallest_of_three_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_fourth_week/smallest_of_three_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_more_exercises/center_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_more_exercises/center_point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_more_exercises/data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_more_exercises/data_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_more_exercises/multiplication_sign.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_more_exercises/multiplication_sign.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/functions_more_exercises/tribonacci_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/functions_more_exercises/tribonacci_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/array_modifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/array_modifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/computer_store.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/computer_store.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/cooking_masterclass.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/cooking_masterclass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/counter_strike.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/counter_strike.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/memory_games.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/memory_games.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/memory_games1.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/memory_games1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/school_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/school_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/softuni_reception.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/softuni_reception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/space_travel.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/space_travel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/fundamentals_mid_exam/the_lift.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/fundamentals_mid_exam/the_lift.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advanced_more_exercises/social_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advanced_more_exercises/social_distribution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advanced_more_exercises/take_skip_rope.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advanced_more_exercises/take_skip_rope.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/anonymous_threat.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/anonymous_threat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/decipher_this.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/decipher_this.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/electron_distribution.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/electron_distribution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/even_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/group_of_10s.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/group_of_10s.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/next_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/next_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/no_vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/no_vowels.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/number_classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/number_classification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/office_chairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/office_chairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/palindrome_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/palindrome_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/palindrome_strings1.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/palindrome_strings1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/sorting_names.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/sorting_names.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/the_office.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/the_office.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/to_do_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/to_do_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/trains.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/trains.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/which_are_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/which_are_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_advancet_fifth_week/word_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_advancet_fifth_week/word_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/bread_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/bread_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/courses.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/courses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/easter_gifts.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/easter_gifts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/faro_shuffle.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/faro_shuffle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/football_cards.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/football_cards.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/hello_france.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/hello_france.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/invert_values.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/invert_values.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/lists_statistics.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/lists_statistics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/multiples_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/multiples_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/number_beggars.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/number_beggars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/numbers_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/numbers_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/size_the_fire.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/size_the_fire.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/strange_zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/strange_zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/list_basics_third_week/survival_of_the_biggest.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/list_basics_third_week/survival_of_the_biggest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/articles.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/articles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/catalogue.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/catalogue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/comment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/email.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/inventory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/movye.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/movye.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/party.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/party.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/town.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/town.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/vehicle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/weapon.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/weapon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/objects_and_classes_sixth_week/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/objects_and_classes_sixth_week/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/patterns/hollow_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/patterns/hollow_square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/patterns/left_sided_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/patterns/left_sided_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/patterns/right_sided_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/patterns/right_sided_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/patterns/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/patterns/square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/capture_the_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/capture_the_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/extract_emails.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/extract_emails.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/extract_the_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/extract_the_links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/find_occurrences_of_word_in_sentence.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/find_occurrences_of_word_in_sentence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/find_variable_names_in_sentences.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/find_variable_names_in_sentences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/furniture.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/furniture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/match_dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/match_dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/match_full_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/match_full_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/match_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/match_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/regular_expressions/match_phone_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/regular_expressions/match_phone_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/second_week_more_exercises/zeros_to_back.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/second_week_more_exercises/zeros_to_back.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/caesar_cipher.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/caesar_cipher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/character_multiplier.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/character_multiplier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/digits_letters_and_other.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/digits_letters_and_other.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/emoticon_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/emoticon_finder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/extract_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/extract_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/rage_quit.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/rage_quit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/repeat_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/repeat_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/replace_repeating_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/replace_repeating_chars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/reverse_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/reverse_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/string_explosion.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/string_explosion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/text_filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/text_filter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/valid_usernames.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/valid_usernames.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programing_fundamentals/text_processing/winning_ticket.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_fundamentals/text_processing/winning_ticket.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz_games/quiz_game_1_from_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_games/quiz_game_1_from_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +244,7 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.quiz_game_1_from_3">
+  <component name="RunManager" selected="Python.reverse_strings">
     <configuration name="loading_data_from_existing_file (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,27 +258,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pandas_projects/loading_data_from_existing_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="loading_data_from_existing_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git_repo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_steps_in_coding_basic/loading_data_from_file_pandas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\WIN10\Documents\git_repo\pandas_projects\loading_data_from_existing_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,6 +308,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="reverse_strings" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git_repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/lists_as_stacks_and_queues" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/lists_as_stacks_and_queues/reverse_strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="sql_practice_game_list_GTI (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,34 +350,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sql_practice_game_list_GTI" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git_repo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sql_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sql_practice/sql_practice_game_list_GTI.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reverse_strings" />
         <item itemvalue="Python.quiz_game_1_from_3" />
         <item itemvalue="Python.loading_data_from_file_in_the_computer" />
         <item itemvalue="Python.loading_data_from_existing_file (1)" />
         <item itemvalue="Python.sql_practice_game_list_GTI (1)" />
-        <item itemvalue="Python.loading_data_from_existing_file (1)" />
       </list>
     </recent_temporary>
   </component>
