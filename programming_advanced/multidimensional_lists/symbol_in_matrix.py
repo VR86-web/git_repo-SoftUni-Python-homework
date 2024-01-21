@@ -13,5 +13,4 @@ for row_index in range(number):
             print(f"({row_index}, {col_index})")
             exit()
 
-else:
-    print(f"{searched_element} does not occur in the matrix")
+print(f"{searched_element} does not occur in the matrix")
