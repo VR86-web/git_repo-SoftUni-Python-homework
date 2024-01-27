@@ -52,8 +52,8 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.negative_vs_positive">
-    <configuration name="alice_in_wonderland" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.even_or_odd">
+    <configuration name="even_or_odd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exercise_multidimensional_lists_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exercise_multidimensional_lists_2/exercise_functions_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exercise_multidimensional_lists_2/alice_in_wonderland.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exercise_multidimensional_lists_2/exercise_functions_advanced/even_or_odd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flatten_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="keyword_arguments_length" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exercise_multidimensional_lists_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exercise_multidimensional_lists_2/exercise_functions_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exercise_multidimensional_lists_2/flatten_lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exercise_multidimensional_lists_2/exercise_functions_advanced/keyword_arguments_length.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.even_or_odd" />
+        <item itemvalue="Python.keyword_arguments_length" />
         <item itemvalue="Python.negative_vs_positive" />
         <item itemvalue="Python.person_info" />
         <item itemvalue="Python.multiplication_function" />
-        <item itemvalue="Python.alice_in_wonderland" />
-        <item itemvalue="Python.flatten_lists" />
       </list>
     </recent_temporary>
   </component>
