@@ -21,31 +21,36 @@ for row in range(size):
     if "B" in territory[row]:
         lair_pos.append((row, territory[row].index("B")))
 
-while food_quantity < 10:
+while True:
     commands = input()
 
-    row = snake_pos[0] + directions[commands][0]
-    col = snake_pos[1] + directions[commands][1]
-    territory[row][col] = "."
+    next_row = snake_pos[0] + directions[commands][0]
+    next_col = snake_pos[1] + directions[commands][1]
+    territory[snake_pos[0]][snake_pos[1]] = "."
 
-    if not (0 <= row < size and 0 <= col < size):
+    if not (0 <= next_row < size and 0 <= next_col < size):
         print("Game over!")
         break
 
-    snake_pos = [row, col]
-    element = territory[row][col]
+    element = territory[next_row][next_col]
 
     if element == "*":
         food_quantity += 1
-        territory[row][col] = "."
+        snake_pos = [next_row, next_col]
 
     elif element == "B":
-        lair_pos.remove((row, col))
+        territory[next_row][next_col] = "."
+        lair_pos.remove((next_row, next_col))
         snake_pos = lair_pos[0]
 
+    else:
+        snake_pos = [next_row, next_col]
 
-if food_quantity == 10:
-    print("You won! You fed the snake.")
+    territory[snake_pos[0]][snake_pos[1]] = "S"
+
+    if food_quantity == 10:
+        print("You won! You fed the snake.")
+        break
 
 print(f"Food eaten: {food_quantity}")
 
