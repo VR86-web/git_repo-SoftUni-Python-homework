@@ -52,8 +52,8 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam_functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.matching_2">
-    <configuration name="checkmate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.game_of_words">
+    <configuration name="game_of_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/checkmate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/game_of_words.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.game_of_words" />
         <item itemvalue="Python.matching_2" />
         <item itemvalue="Python.matching" />
         <item itemvalue="Python.list_pureness" />
         <item itemvalue="Python.worms_and_holes" />
-        <item itemvalue="Python.checkmate" />
       </list>
     </recent_temporary>
   </component>
