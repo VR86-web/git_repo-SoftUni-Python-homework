@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_advanced/exam_exercises/worms_and_holes.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_advanced/exam_exercises/worms_and_holes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_advanced/lists_as_stacks_and_queues_practice/crossroads.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_advanced/lists_as_stacks_and_queues_practice/crossroads.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam_functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.list_pureness">
+  <component name="RunManager" selected="Python.matching_2">
     <configuration name="checkmate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="scheduling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/scheduling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/matching.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="matching_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/snake.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/matching_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.matching_2" />
+        <item itemvalue="Python.matching" />
         <item itemvalue="Python.list_pureness" />
         <item itemvalue="Python.worms_and_holes" />
         <item itemvalue="Python.checkmate" />
-        <item itemvalue="Python.scheduling" />
-        <item itemvalue="Python.snake" />
       </list>
     </recent_temporary>
   </component>
