@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_advanced/error_handling/repeat_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_advanced/error_handling/repeat_text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programming_advanced/lists_as_stacks_and_queues_practice/crossroads.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_advanced/lists_as_stacks_and_queues_practice/crossroads.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +54,8 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam_functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.value_cannot_be_negative">
-    <configuration name="game_of_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.crossroads">
+    <configuration name="crossroads" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exam_exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/lists_as_stacks_and_queues_practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/game_of_words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/lists_as_stacks_and_queues_practice/crossroads.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="matching_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="email_validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exam_exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/error_handling_exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/matching_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/error_handling_exercises/email_validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repeat_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numbers_dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/error_handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/error_handling_exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/error_handling/repeat_text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/error_handling_exercises/numbers_dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.crossroads" />
+        <item itemvalue="Python.email_validator" />
+        <item itemvalue="Python.numbers_dictionary" />
         <item itemvalue="Python.value_cannot_be_negative" />
         <item itemvalue="Python.money_transaction" />
-        <item itemvalue="Python.repeat_text" />
-        <item itemvalue="Python.game_of_words" />
-        <item itemvalue="Python.matching_2" />
       </list>
     </recent_temporary>
   </component>
