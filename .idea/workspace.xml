@@ -52,7 +52,7 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam_functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.magic_triangle">
+  <component name="RunManager" selected="Python.pizza_orders">
     <configuration name="crossroads" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="value_cannot_be_negative" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pizza_orders" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/error_handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exam_exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/error_handling/value_cannot_be_negative.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_exercises/pizza_orders.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pizza_orders" />
         <item itemvalue="Python.magic_triangle" />
         <item itemvalue="Python.crossroads" />
         <item itemvalue="Python.email_validator" />
         <item itemvalue="Python.numbers_dictionary" />
-        <item itemvalue="Python.value_cannot_be_negative" />
       </list>
     </recent_temporary>
   </component>
