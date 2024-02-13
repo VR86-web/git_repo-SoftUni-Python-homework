@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_advanced/exam_exercises/worms_and_holes.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_advanced/exam_exercises/worms_and_holes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,14 +45,14 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\pandas_projects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WIN10\Documents\git_repo\programming_advanced\exam_preparation" />
       <recent name="C:\Users\WIN10\Documents\git_repo\programming_advanced" />
       <recent name="C:\Users\WIN10\Documents\git_repo\pandas_projects" />
       <recent name="C:\Users\WIN10\Documents\git_repo\first_steps_in_coding_basic\loading_data_from_file_pandas" />
       <recent name="C:\Users\WIN10\Documents\git_repo\requests_practice" />
-      <recent name="C:\Users\WIN10\Documents\git_repo\programing_fundamentals\final_exam_functions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.worms_and_holes">
+  <component name="RunManager" selected="Python.fishing_competition">
     <configuration name="aladdins_gifts" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fishing_competition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/file_handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exam_preparation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/file_handling/file_manipulator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programming_advanced/exam_preparation/fishing_competition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fishing_competition" />
         <item itemvalue="Python.worms_and_holes" />
         <item itemvalue="Python.aladdins_gifts" />
         <item itemvalue="Python.cupcake_shop" />
         <item itemvalue="Python.tic_tac_toe" />
-        <item itemvalue="Python.file_manipulator" />
       </list>
     </recent_temporary>
   </component>
