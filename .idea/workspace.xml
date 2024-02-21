@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/programming_advanced/workshop/tic_tac_toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/programming_advanced/workshop/tic_tac_toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,7 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\requests_practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cookbook">
+  <component name="RunManager" selected="Python.rhombus_of_stars">
     <configuration name="chicken_snack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="worms_and_holes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rhombus_of_stars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programming_advanced/exam_exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/first_steps_in_oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\WIN10\Documents\git_repo\programming_advanced\exam_preparation\worms_and_holes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/first_steps_in_oop/rhombus_of_stars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rhombus_of_stars" />
         <item itemvalue="Python.cookbook" />
         <item itemvalue="Python.clear_skies" />
         <item itemvalue="Python.chicken_snack" />
         <item itemvalue="Python.fishing_competition" />
-        <item itemvalue="Python.worms_and_holes" />
       </list>
     </recent_temporary>
   </component>
