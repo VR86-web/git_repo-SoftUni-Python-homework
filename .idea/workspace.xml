@@ -52,7 +52,7 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\requests_practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.flower">
+  <component name="RunManager" selected="Python.steam_user">
     <configuration name="cup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="steam_user" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/steam_user.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.steam_user" />
         <item itemvalue="Python.flower" />
         <item itemvalue="Python.cup" />
         <item itemvalue="Python.employee" />
         <item itemvalue="Python.hero" />
-        <item itemvalue="Python.shop" />
       </list>
     </recent_temporary>
   </component>
