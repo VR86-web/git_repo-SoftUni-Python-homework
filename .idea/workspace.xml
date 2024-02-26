@@ -52,8 +52,8 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\requests_practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hero">
-    <configuration name="car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.employee">
+    <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/first_steps_in_oop" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/first_steps_in_oop/car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/employee.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.employee" />
         <item itemvalue="Python.hero" />
         <item itemvalue="Python.shop" />
         <item itemvalue="Python.scope_mess" />
         <item itemvalue="Python.music" />
-        <item itemvalue="Python.car" />
       </list>
     </recent_temporary>
   </component>
