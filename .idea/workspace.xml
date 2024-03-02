@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/classes_and_objects/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/classes_and_objects/circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/classes_and_objects/glass.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/classes_and_objects/glass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/classes_and_objects/point.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/classes_and_objects/point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/classes_and_objects/smartphone.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/classes_and_objects/smartphone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/classes_and_objects/vehicle.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/classes_and_objects/vehicle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +50,14 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\pandas_projects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\WIN10\Documents\git_repo\python_oop" />
       <recent name="C:\Users\WIN10\Documents\git_repo\programming_advanced\exam_preparation" />
       <recent name="C:\Users\WIN10\Documents\git_repo\programming_advanced" />
       <recent name="C:\Users\WIN10\Documents\git_repo\pandas_projects" />
       <recent name="C:\Users\WIN10\Documents\git_repo\first_steps_in_coding_basic\loading_data_from_file_pandas" />
-      <recent name="C:\Users\WIN10\Documents\git_repo\requests_practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.smartphone">
+  <component name="RunManager" selected="Python.vet">
     <configuration name="circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -137,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="vet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/classes_and_objects" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exercise_classes_and_objects" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/first_steps_in_oop_exercises/classes_and_objects/vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/exercise_classes_and_objects/vet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.vet" />
         <item itemvalue="Python.smartphone" />
         <item itemvalue="Python.glass" />
         <item itemvalue="Python.circle" />
         <item itemvalue="Python.point" />
-        <item itemvalue="Python.vehicle" />
       </list>
     </recent_temporary>
   </component>
