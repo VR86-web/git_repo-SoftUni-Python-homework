@@ -3,7 +3,7 @@ from typing import List
 
 class SteamUser:
 
-    def __init__(self, username: str, games: List):
+    def __init__(self, username: str, games: List[str]):
         self.username = username
         self.games = games
         self.played_hours = 0
@@ -16,7 +16,7 @@ class SteamUser:
 
         return f"{game} is not in library"
 
-    def buy_game(self, game: str):
+    def buy_game(self, game: str) -> str:
         if game not in self.games:
             self.games.append(game)
 
