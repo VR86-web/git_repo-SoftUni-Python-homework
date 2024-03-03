@@ -2,8 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/python_oop/exercise_classes_and_objects/to_do_list" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/python_oop/first_steps_in_oop_exercises/pokemon_battle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/python_oop/exercise_classes_and_objects/spoopify" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
