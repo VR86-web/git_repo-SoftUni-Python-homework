@@ -1,4 +1,4 @@
-from project.car import Car
+from project.movie_app import Car
 
 
 class SportsCar(Car):
