@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/git_repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_repo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/equipment/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/equipment/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/equipment/base_equipment.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/equipment/base_equipment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/equipment/elbow_pad.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/equipment/elbow_pad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/equipment/knee_pad.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/equipment/knee_pad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/teams/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/teams/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/teams/base_team.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/teams/base_team.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/teams/indoor_team.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/teams/indoor_team.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/teams/outdoor_team.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/teams/outdoor_team.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/tournament.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/projects/tournament.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/bank_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/clients/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/clients/adult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/clients/base_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/clients/student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/loans/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/loans/base_loan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/loans/mortgage_loan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/loans/student_loan.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,84 +62,84 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\first_steps_in_coding_basic\loading_data_from_file_pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test.TestTrip">
-    <configuration name="Python tests for test.TestTrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test.TestSecondHandCar">
+    <configuration name="Python tests for test.TestSecondHandCar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip&quot;" />
+      <option name="_new_target" value="&quot;test.TestSecondHandCar&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestTrip.test_book_a_trip_successfully_no_family_discount" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestSecondHandCar.test_after_successful_repairing_expect_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip.test_book_a_trip_successfully_no_family_discount&quot;" />
+      <option name="_new_target" value="&quot;test.TestSecondHandCar.test_after_successful_repairing_expect_message&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestTrip.test_book_a_trip_successfully_with_family_discount" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestSecondHandCar.test_compare" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip.test_book_a_trip_successfully_with_family_discount&quot;" />
+      <option name="_new_target" value="&quot;test.TestSecondHandCar.test_compare&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestTrip.test_booking_status_with_bookings" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestSecondHandCar.test_if_after_comparing_the_car_type_with_another_different_car_type_expect_message_for_incorrect_type" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip.test_booking_status_with_bookings&quot;" />
+      <option name="_new_target" value="&quot;test.TestSecondHandCar.test_if_after_comparing_the_car_type_with_another_different_car_type_expect_message_for_incorrect_type&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestTrip.test_booking_status_with_no_bookings" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestSecondHandCar.test_str" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/python_oop_retake_exam_15_august_2023/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/bank/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestTrip.test_booking_status_with_no_bookings&quot;" />
+      <option name="_new_target" value="&quot;test.TestSecondHandCar.test_str&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test.TestTrip" />
-        <item itemvalue="Python tests.Python tests for test.TestTrip.test_booking_status_with_bookings" />
-        <item itemvalue="Python tests.Python tests for test.TestTrip.test_booking_status_with_no_bookings" />
-        <item itemvalue="Python tests.Python tests for test.TestTrip.test_book_a_trip_successfully_with_family_discount" />
-        <item itemvalue="Python tests.Python tests for test.TestTrip.test_book_a_trip_successfully_no_family_discount" />
+        <item itemvalue="Python tests.Python tests for test.TestSecondHandCar" />
+        <item itemvalue="Python tests.Python tests for test.TestSecondHandCar.test_str" />
+        <item itemvalue="Python tests.Python tests for test.TestSecondHandCar.test_compare" />
+        <item itemvalue="Python tests.Python tests for test.TestSecondHandCar.test_if_after_comparing_the_car_type_with_another_different_car_type_expect_message_for_incorrect_type" />
+        <item itemvalue="Python tests.Python tests for test.TestSecondHandCar.test_after_successful_repairing_expect_message" />
       </list>
     </recent_temporary>
   </component>
