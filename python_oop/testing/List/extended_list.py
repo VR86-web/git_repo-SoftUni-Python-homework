@@ -11,7 +11,9 @@ class IntegerList:
     def add(self, element):
         if not type(element) == int:
             raise ValueError("Element is not Integer")
+
         self.get_data().append(element)
+
         return self.get_data()
  
     def remove_index(self, index):
