@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/git_repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_repo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/testing/List/extended_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_oop/testing/List/extended_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,84 +52,84 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\first_steps_in_coding_basic\loading_data_from_file_pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for integer_list.TestIntegerList">
-    <configuration name="Python tests for integer_list.TestIntegerList" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for car_unittests.TestCar">
+    <configuration name="Python tests for car_unittests.TestCar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/CarManager" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;integer_list.TestIntegerList&quot;" />
+      <option name="_new_target" value="&quot;car_unittests.TestCar&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for integer_list.TestIntegerList.test_get_biggest_number" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for car_unittests.TestCar.test_car_drive_without_fuel_expecting_raises_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/CarManager" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;integer_list.TestIntegerList.test_get_biggest_number&quot;" />
+      <option name="_new_target" value="&quot;car_unittests.TestCar.test_car_drive_without_fuel_expecting_raises_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for integer_list.TestIntegerList.test_get_index" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for car_unittests.TestCar.test_drive_car_with_fuel_decreases_fuel" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/CarManager" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;integer_list.TestIntegerList.test_get_index&quot;" />
+      <option name="_new_target" value="&quot;car_unittests.TestCar.test_drive_car_with_fuel_decreases_fuel&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for integer_list.TestIntegerList.test_insert_integer_on_valid_index" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for car_unittests.TestCar.test_refuel_amount_with_negative_value_raises_exception" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/CarManager" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;integer_list.TestIntegerList.test_insert_integer_on_valid_index&quot;" />
+      <option name="_new_target" value="&quot;car_unittests.TestCar.test_refuel_amount_with_negative_value_raises_exception&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for integer_list.TestIntegerList.test_insert_on_valid_index_with_non_integer_type_raises_value_error" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for car_unittests.TestCar.test_refuel_car_with_valid_amount_of_fuel_more_then_capacity_fills_to_capacity" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/List" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/testing/CarManager" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;integer_list.TestIntegerList.test_insert_on_valid_index_with_non_integer_type_raises_value_error&quot;" />
+      <option name="_new_target" value="&quot;car_unittests.TestCar.test_refuel_car_with_valid_amount_of_fuel_more_then_capacity_fills_to_capacity&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for integer_list.TestIntegerList" />
-        <item itemvalue="Python tests.Python tests for integer_list.TestIntegerList.test_get_index" />
-        <item itemvalue="Python tests.Python tests for integer_list.TestIntegerList.test_get_biggest_number" />
-        <item itemvalue="Python tests.Python tests for integer_list.TestIntegerList.test_insert_integer_on_valid_index" />
-        <item itemvalue="Python tests.Python tests for integer_list.TestIntegerList.test_insert_on_valid_index_with_non_integer_type_raises_value_error" />
+        <item itemvalue="Python tests.Python tests for car_unittests.TestCar" />
+        <item itemvalue="Python tests.Python tests for car_unittests.TestCar.test_refuel_amount_with_negative_value_raises_exception" />
+        <item itemvalue="Python tests.Python tests for car_unittests.TestCar.test_drive_car_with_fuel_decreases_fuel" />
+        <item itemvalue="Python tests.Python tests for car_unittests.TestCar.test_car_drive_without_fuel_expecting_raises_exception" />
+        <item itemvalue="Python tests.Python tests for car_unittests.TestCar.test_refuel_car_with_valid_amount_of_fuel_more_then_capacity_fills_to_capacity" />
       </list>
     </recent_temporary>
   </component>
