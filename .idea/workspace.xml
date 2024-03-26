@@ -4,13 +4,6 @@
     <list default="true" id="15387caf-4a42-418d-a2fc-c9bdddb9fb1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/git_repo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git_repo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/controller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/player.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/supply/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/supply/drink.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/supply/food.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/supply/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/supply/supply.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +53,28 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\first_steps_in_coding_basic\loading_data_from_file_pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test.TestMovie.test_adding_actor_in_actors_list_if_actor_is_already_there_expect_message">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="git_repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/horse_rasing/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/horse_rasing/project/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test.TestMovie" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,20 +100,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test.TestMovie.test_adding_actor_in_actors_list_if_actor_is_already_there_expect_message&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test.TestMovie.test_compare_if_movie_rating_is_greater_then_another" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="git_repo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestMovie.test_compare_if_movie_rating_is_greater_then_another&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main" />
         <item itemvalue="Python tests.Python tests for test.TestMovie.test_adding_actor_in_actors_list_if_actor_is_already_there_expect_message" />
         <item itemvalue="Python tests.Python tests for test.TestMovie" />
         <item itemvalue="Python tests.Python tests for test.TestMovie.test_compare_if_new_movie_rating_is_greater_then_the_existing_one" />
         <item itemvalue="Python tests.Python tests for test.TestMovie.test_repr" />
-        <item itemvalue="Python tests.Python tests for test.TestMovie.test_compare_if_movie_rating_is_greater_then_another" />
       </list>
     </recent_temporary>
   </component>
