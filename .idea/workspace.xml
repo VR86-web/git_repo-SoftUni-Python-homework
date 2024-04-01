@@ -53,91 +53,84 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\first_steps_in_coding_basic\loading_data_from_file_pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test.TestClimbingRobot.test_create_robot_with_invalid_category_raises_value_error">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="git_repo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/horse_rasing/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/horse_rasing/project/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test.TestClimbingRobot.test_correct_init" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test.TestRailwayStation.test_train_has_left_no_departure_trains_false">
+    <configuration name="Python tests for test.TestRailwayStation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/climbers/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/nautical_catch_challenge/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_correct_init&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestClimbingRobot.test_create_robot_with_invalid_category_raises_value_error" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestRailwayStation.test_train_has_arrived_go_to_departure" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/climbers/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/nautical_catch_challenge/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestClimbingRobot.test_create_robot_with_invalid_category_raises_value_error&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation.test_train_has_arrived_go_to_departure&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestMovie" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestRailwayStation.test_train_has_arrived_go_to_departures" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/nautical_catch_challenge/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestMovie&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation.test_train_has_arrived_go_to_departures&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.TestMovie.test_adding_actor_in_actors_list_if_actor_is_already_there_expect_message" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test.TestRailwayStation.test_train_has_left_no_departure_trains" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/medieval_games/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/nautical_catch_challenge/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.TestMovie.test_adding_actor_in_actors_list_if_actor_is_already_there_expect_message&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation.test_train_has_left_no_departure_trains&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestRailwayStation.test_train_has_left_no_departure_trains_false" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="git_repo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/exam_preparation_exercises/nautical_catch_challenge/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestRailwayStation.test_train_has_left_no_departure_trains_false&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_create_robot_with_invalid_category_raises_value_error" />
-        <item itemvalue="Python tests.Python tests for test.TestClimbingRobot.test_correct_init" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python tests.Python tests for test.TestMovie.test_adding_actor_in_actors_list_if_actor_is_already_there_expect_message" />
-        <item itemvalue="Python tests.Python tests for test.TestMovie" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation.test_train_has_left_no_departure_trains_false" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation.test_train_has_left_no_departure_trains" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation.test_train_has_arrived_go_to_departures" />
+        <item itemvalue="Python tests.Python tests for test.TestRailwayStation.test_train_has_arrived_go_to_departure" />
       </list>
     </recent_temporary>
   </component>
