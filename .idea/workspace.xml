@@ -52,7 +52,7 @@
       <recent name="C:\Users\WIN10\Documents\git_repo\first_steps_in_coding_basic\loading_data_from_file_pandas" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.countdown_iterator">
+  <component name="RunManager" selected="Python.sequence_repeat">
     <configuration name="countdown_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sequence_repeat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="git_repo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/iterators_and_generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_oop/iterators_and_generators_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/iterators_and_generators/squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_oop/iterators_and_generators_exercise/sequence_repeat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sequence_repeat" />
         <item itemvalue="Python.countdown_iterator" />
         <item itemvalue="Python.dictionary_iterator" />
         <item itemvalue="Python.take_skip" />
         <item itemvalue="Python.reverse_string" />
-        <item itemvalue="Python.squares" />
       </list>
     </recent_temporary>
   </component>
