@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>Todos!</h1>
+    
+    {% if tasks %}
+        <p>You have {{ tasks|length }} tasks</p>
+    {% endif %}
+    
+    <form method="get" action="/">
+        <input type="text" title="title_filter" placeholder="Search">
+        <button>Search</button>
+    </form>
+    
+    <ul>
+        {% for task in tasks %}
+            <li>{{task.name}} - {{ task.description }} / {{ task.created_at }}</li>
+        {% empty %}
+            <li>No results!</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
