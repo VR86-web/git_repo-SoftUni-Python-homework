@@ -1,4 +1,5 @@
 {% load static %}
+{% load markdown_extras %}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +14,28 @@
 </head>
 <body>
     {% include 'nav.html' %}
-    <h1>Hello user! </h1>
+    <div class="container">
+        <div class="posts">
+        {% for post in posts %}
+            <div class="post">
+                <h2>{{ post.title|capfirst }}</h2>
+                {% if not post.content %}
+                    {% lorem 3 p %}
+                {% else %}
+                    {{ post.content|markdown }}
+                {% endif %}
+            <div class="post-meta"> 
+                <span>Posted by: {{ post.author|default:'anonymous' }} on {{ post.created_at }}</span>
+            </div>
+            </div>
+        {% empty %}
+            <h1>No posts!</h1>
+        {% endfor %}
+        </div>
+    </div>
+    
+    
+    
 </body>
     <script src='https://unpkg.com/akar-icons-fonts'></script>
 </html>
