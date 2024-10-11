@@ -9,6 +9,7 @@ class PostBaseForm(forms.ModelForm):
         model = Post
         fields = "__all__"
 
+
 class PostCreateForm(PostBaseForm):
     pass
 
