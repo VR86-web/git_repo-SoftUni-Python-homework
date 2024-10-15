@@ -4,7 +4,7 @@
         <div class="container">
             {% include 'posts/search-form.html' %}
             <div class="posts">
-            {% for post in posts %}
+            {% for post in object_list %}
                 <a id="post-url" href="{% url 'details-post' post.pk %}">
                     <div class="post">
                         <h2>{{ post.title|capfirst }}</h2>
