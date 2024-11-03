@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block content %}
+    <!-- Post Details -->
+    <section id="details">
+        <div id="details-wrapper">
+            <h2>Post Details</h2>
+            <!-- post image -->
+            <img
+                    id="details-img"
+                    src="https://cdn.pixabay.com/photo/2024/04/05/19/04/ai-generated-8678034_1280.jpg"
+                    alt="My clever dog :)"
+            />
+            <!-- post title -->
+            <p id="details-title">My clever dog :)</p>
+            <div id="info-wrapper">
+                <div id="details-description">
+                    <!-- post content -->
+                    <p>Einstein is the smartest dog ever!!!</p>
+                </div>
+
+                <!--Edit and Delete buttons -->
+                <div id="action-buttons">
+                    <a href="#" id="edit-btn">Edit</a>
+                    <a href="#" id="delete-btn">Delete</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+{% endblock %}

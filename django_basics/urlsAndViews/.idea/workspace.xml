@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02169d1c-d8ed-4cf6-9c24-415668c867fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExamPrep/templates/albums/album-add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPrep/templates/albums/album-delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPrep/templates/albums/album-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPrep/templates/albums/album-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPrep/templates/profiles/home-no-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPrep/templates/profiles/home-with-profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPrep/templates/profiles/profile-delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamPrep/templates/profiles/profile-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/ExamPrep/profiles/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamPrep/ExamPrep/profiles/validators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/ExamPrep/profiles/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamPrep/ExamPrep/profiles/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/ExamPrep/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamPrep/ExamPrep/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/ExamPrep/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamPrep/ExamPrep/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/album-add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/album-delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/album-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/album-edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ExamPrep/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/home-no-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/home-with-profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/profile-delete.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamPrep/templates/profile-details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/urlsAndViews.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/urlsAndViews.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Departments/name_template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/urlsAndViews/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/wsgi.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2oLy5Q4zmr5sTj63mSUNAXPGu6G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django Server.urlsAndViews.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\git_repo\django_basics\urlsAndViews\urlsAndViews" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="urlsAndViews" type="Python.DjangoServer" factoryName="Django server">
+      <module name="urlsAndViews" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="urlsAndViews.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02169d1c-d8ed-4cf6-9c24-415668c867fe" name="Changes" comment="" />
+      <created>1730662969422</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730662969422</updated>
+      <workItem from="1730663028394" duration="2299000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

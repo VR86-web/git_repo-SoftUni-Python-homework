@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% load static %}
+        <!-- Dashboard page -->
+
+        <!-- Display a heading if there are posts -->
+
+{% block content %}
+    
+        <h2>Published Posts</h2>
+
+        <!-- Display a heading if there are NO posts -->
+        <h2>No published posts yet.</h2>
+
+        <section id="dashboard">
+          <!-- Display a div with information about each post (if any) -->
+
+          <!-- first post -->
+          <div class="post">
+            <!-- post image -->
+            <img
+              src="https://cdn.pixabay.com/photo/2017/03/26/00/56/rabbit-2174679_1280.jpg"
+              alt="My cool fluffy rabbits img"
+            />
+            <!-- post title -->
+            <h3 class="title">My cool fluffy rabbits</h3>
+            <!-- post content -->
+            <p class="description">Adorable!</p>
+            <!-- post details button -->
+            <a class="details-btn" href="#">See More</a>
+          </div>
+
+          
+          
+        </section>
+
+{% endblock %}
