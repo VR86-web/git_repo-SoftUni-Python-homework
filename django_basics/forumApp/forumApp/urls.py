@@ -7,6 +7,7 @@ from forumApp import settings
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('forumApp.posts.urls')),
+    path('accounts/', include('forumApp.accounts.urls')),
 ]
 
 if settings.DEBUG:

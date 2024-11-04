@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02169d1c-d8ed-4cf6-9c24-415668c867fe" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +22,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2oLy5Q4zmr5sTj63mSUNAXPGu6G" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,6 +36,7 @@
     "Django Server.urlsAndViews.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Documents/git_repo/django_basics/forumApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,7 +93,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730662969422</updated>
-      <workItem from="1730663028394" duration="4832000" />
+      <workItem from="1730663028394" duration="5440000" />
+      <workItem from="1730744093310" duration="86000" />
     </task>
     <servers />
   </component>
