@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02169d1c-d8ed-4cf6-9c24-415668c867fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../forumApp/forumApp/accounts/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../forumApp/forumApp/accounts/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forumApp/forumApp/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../forumApp/forumApp/posts/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forumApp/forumApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../forumApp/forumApp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../forumApp/templates/common/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/../forumApp/templates/common/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/urlsAndViews/departments/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/urlsAndViews/departments/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="02169d1c-d8ed-4cf6-9c24-415668c867fe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +37,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
-    "last_opened_file_path": "D:/Documents/git_repo/django_basics/urlsAndViews",
+    "last_opened_file_path": "D:/Documents/git_repo/django_basics/forumApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -104,7 +96,7 @@
       <updated>1730662969422</updated>
       <workItem from="1730663028394" duration="5440000" />
       <workItem from="1730744093310" duration="86000" />
-      <workItem from="1730836056781" duration="3942000" />
+      <workItem from="1730836056781" duration="4651000" />
     </task>
     <servers />
   </component>
