@@ -1,0 +1,55 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=\, initial-scale=1.0"/>
+    <link rel="stylesheet" href="{% static '/styles/styles.css' %}"/>
+    <title>Travelers Hub</title>
+</head>
+
+<body>
+<div id="wrapper">
+    <header>
+        <!-- Navigation -->
+
+        <!-- Logo image: a link to index/home page -->
+        <a id="logo" href="#">
+            <img id="logo-img" src="{% static '/images/logo-boeing.png' %}" alt="logo"/>
+        </a>
+
+        <nav>
+
+            {% if traveler %}
+
+            <div class="user">
+                <a href="{% url 'all-trips' %}">All Trips</a>
+                <a href="{% url 'create-trip-view' %}">Share Trip</a>
+                <a href="#">Traveler's Profile</a>
+            </div>
+
+            {% else %}
+
+            <div class="guest">
+                <a href="{% url 'create-traveler-view' %}">New Traveler's Profile</a>
+            </div>
+            
+            {% endif %}
+
+        </nav>
+    </header>
+
+    {% block contain %}
+
+    {% endblock %}
+
+    <!-- footer -->
+    <footer>
+        <p>&copy; 2024 Travelers Hub by SoftUni Team. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>

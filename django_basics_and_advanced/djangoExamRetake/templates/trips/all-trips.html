@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+{% block contain %}
+    <main>
+
+        <!-- All Trips page -->
+
+        <!-- Display a heading if there are trips, including their count -->
+        {% if trips %}
+            <h2>{{ trips.count }}</h2>
+            {% for trip in trips %}
+                <!-- first trip -->
+                <div class="post">
+                    <!-- trip image if there is such, otherwise display the default one -->
+
+                    <img src="{{ trip.image_url }}"
+                         alt="Cusco, Peru img"/>
+
+                    <!-- trip destination -->
+                    <h3 class="title">{{ trip.destination }}</h3>
+                    <!-- trip start date in format "D d M Y" -->
+                    <p class="description">{{ trip.start_date|date:"D d M Y" }}</p>
+                    <!-- trip details button -->
+                    <a class="details-btn" href="{% url 'details-trip-view' trips.pk %}">Details</a>
+                </div>
+            {% endfor %}
+        {% else %}
+            <!-- Display a heading if there are NO trips -->
+            <h2>No shared trips</h2>
+        {% endif %}
+
+        <section id="dashboard">
+
+            <!-- Display a div with information about each trip (if any). Trips must be ordered by start_date descending -->
+
+               
+        </section>
+
+    </main>
+    
+{% endblock %}

@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+{% block contain %}
+
+    <main>
+
+        <!-- Trip Details -->
+        <section id="details">
+            <div id="details-wrapper">
+                <h2>Trip Details</h2>
+                <!-- trip image if there is such, otherwise display the default one -->
+                <img src="{{ trip.image_url }}"
+                     alt=""/>
+
+                <!-- trip destination -->
+                <p id="details-title">{{ trip.destination}}</p>
+
+                <div id="info-wrapper">
+                    <div id="details-description">
+
+                        <!-- trip start date in format "D d M Y" -->
+                        <p class="description">
+                            {{ trip.start_date }}
+                        </p>
+                        <!-- trip duration -->
+                        <p>
+                            {{ trip.duration }}
+                        </p>
+                        <!-- trip summary -->
+                        <p>
+                           {{ trip.summary }}
+                        </p>
+                    </div>
+
+                    <!--Edit and Delete buttons -->
+                    <div id="action-buttons">
+                        <a href="#" id="edit-btn">Edit</a>
+                        <a href="#" id="delete-btn">Delete</a>
+                    </div>
+                </div>
+                
+            </div>
+        </section>
+
+    </main>
+    </div>
+{% endblock %}

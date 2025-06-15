@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block contain %}
+
+        <main>
+
+            <!-- Add Trip Form -->
+            <section id="create">
+                <div class="form">
+                    <h2>Share a New Trip</h2>
+                    <form class="create-form" action="" method="post">
+                        {% csrf_token %}
+                        {{ form }}
+
+                        <button type="submit">Share</button>
+                    </form>
+                </div>
+            </section>
+
+        </main>
+    </div>
+{% endblock %}
